@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mainflux/lora-pktgen/cmd"
+	"github.com/mainflux/donadonny/cmd"
 	"github.com/spf13/cobra"
 )
 
